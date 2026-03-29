@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Paola
 
 🎓 3rd year Systems Engineering student
+
 💡 Interested in Machine Learning, Data Engineering and Backend Development
 📍 Currently working on synthetic data generation for telecom performance analysis
 
