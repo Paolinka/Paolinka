@@ -3,6 +3,7 @@
 🎓 3rd year Systems Engineering student
 
 💡 Interested in Machine Learning, Data Engineering and Backend Development
+
 📍 Currently working on synthetic data generation for telecom performance analysis
 
 ---
@@ -26,10 +27,12 @@ Currently, I'm expanding my skills in data engineering tools and scalable system
 ## 📌 Projects currently in progress
 
 🔹 **Synthetic Telecom Data Generator**
+
 Building a system for generating realistic telecom performance data for testing and analytics.
 Technologies: Python, statistical modeling, data simulation, Apache Spark, Apache Airflow, Docker
 
 🔹 **Optimal Placement of Monitoring Points using GNN and QUBO**
+
 This project focuses on optimizing the placement of monitoring points in agricultural areas using optimization techniques.
 Building a model that supports decision-making in spatial resource allocation problems, with potential applications in hunting economy.
 Technologies: Python, GNN, QUBO
