@@ -43,7 +43,9 @@ Technologies: Python, GNN, QUBO
 
 ![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Paolinka&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paolinka\&layout=compact)
+![Streak](https://streak-stats.demolab.com/?user=Paolinka)
+
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Paolinka&layout=compact)
 
 ---
 
